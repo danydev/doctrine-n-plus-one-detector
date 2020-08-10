@@ -1,0 +1,6 @@
+.project
+.idea
+vendor/
+/.phpcs-cache
+/infection.log
+/.phpunit.result.cache
